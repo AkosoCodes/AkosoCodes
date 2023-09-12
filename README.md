@@ -11,7 +11,7 @@
    ![](https://komarev.com/ghpvc/?username=AkosoCodes&style=flat-square)  
 </div>
 
-<h2 align="left">🕸️| Web Technologies</h2>
+<h2 align="center">🕸️| Web Technologies</h2>
 
 I enjoy trying out new technologies and tools in my free time, however these are my trusty tools that I use on a daily basis:
 
@@ -64,8 +64,5 @@ I enjoy trying out new technologies and tools in my free time, however these are
   <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/akosocodes/akosocodes/output/snake.svg" alt="Snake animation" />
 
 ###
