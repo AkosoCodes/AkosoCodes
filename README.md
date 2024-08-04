@@ -25,39 +25,24 @@ I enjoy trying out new technologies and tools in my free time, however these are
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="35" alt="nextjs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=vue" height="35" alt="vuejs logo"  />
-  <img width="5" />
   <img src="https://cdn.simpleicons.org/storybook/FF4785" height="35" alt="storybook logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="35" alt="tailwindcss logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="35" alt="styledcomponents logo"  />
 </div>
 
 <h3 align="left">Backend</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=spring" height="35" alt="spring logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="35" alt="mongodb logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="35" alt="mysql logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=graphql" height="35" alt="graphql logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="35" alt="firebase logo"  />
 </div>
 
 <h3 align="left">Devops</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="35" alt="amazonwebservices logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="35" alt="googlecloud logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="35" alt="gitlab logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
   <img width="5" />
